@@ -1,3 +1,4 @@
+# execute when a stage labe is set
 name: Stage the app
 
 on:
